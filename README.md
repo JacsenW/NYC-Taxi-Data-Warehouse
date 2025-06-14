@@ -1,11 +1,11 @@
-# NYC Taxi Data Warehouse & Sample Superstore Analytics  
+# Data Warehouse & Sample Superstore Analytics  
 🚕📊 **Data Engineering | ETL Pipelines | Dimensional Modeling | Business Intelligence**
 
 ---
 
 ## Project Overview
 
-This repository showcases my expertise as a **Data Analyst**, **Business Analyst**, and **Data Engineer** by building a scalable, production-ready **data warehouse** solution using NYC Taxi and Sample Superstore datasets. The project highlights key data engineering and analytics skills such as:
+This repository showcases my expertise as a **Data Analyst**, **Business Analyst**, and **Data Engineer** by building a scalable, production-ready **data warehouse** solution using Sample Superstore datasets. The project highlights key data engineering and analytics skills such as:
 
 - **Data Cleaning & Transformation:** Extract, Transform, Load (ETL) processes for high-quality, reliable data  
 - **Dimensional Modeling:** Creating efficient **fact tables** and **dimension tables** (e.g., `dim_customer`) optimized for fast querying and business reporting  
