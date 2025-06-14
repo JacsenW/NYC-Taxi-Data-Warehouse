@@ -1,6 +1,6 @@
-# Data Warehouse & Sample Superstore Analytics  
+# Sample-Superstore-Data-warehouse  
 🚕📊 **Data Engineering | ETL Pipelines | Dimensional Modeling | Business Intelligence**
-
+🚀 A robust data warehouse project focused on building scalable dimensional models and incremental ETL pipelines using the Sample Superstore dataset for business analytics.
 ---
 
 ## Project Overview
